@@ -1,4 +1,8 @@
-# Deploy `json-server` to `{{ free hosting site }}`
+# Our Recipes Backend
+
+A mock REST API created using JSON server. View the [deployed mock API](https://our-recipes-backend.herokuapp.com/), [Our Recipes](https://our-recipes-app.netlify.app/), and the [Our Recipes frontend repo](https://github.com/karen-olson/react-recipe-website). 
+
+## Deploy `json-server` to `{{ free hosting site }}`
 
 > Instructions how to deploy the full fake REST API [json-server](https://github.com/typicode/json-server) to various free hosting sites. Should only be used in development purpose but can act as a simpler database for smaller applications.
 
