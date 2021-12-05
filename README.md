@@ -1,6 +1,6 @@
 # Our Recipes Backend
 
-A mock REST API created using JSON server. View the [deployed mock API](https://our-recipes-backend.herokuapp.com/), [Our Recipes](https://our-recipes-app.netlify.app/), and the [Our Recipes frontend repo](https://github.com/karen-olson/react-recipe-website). 
+A mock REST API created using JSON server. View the [deployed mock API](https://our-recipes-backend.herokuapp.com/), the full [Our Recipes](https://our-recipes-app.netlify.app/) app, and  [Our Recipes frontend repo](https://github.com/karen-olson/react-recipe-website). 
 
 ## Deploy `json-server` to `{{ free hosting site }}`
 
